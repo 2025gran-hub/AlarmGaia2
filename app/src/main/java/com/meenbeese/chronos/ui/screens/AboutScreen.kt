@@ -180,7 +180,7 @@ fun AboutScreen(
                 label = stringResource(R.string.fork_github),
                 color = MaterialTheme.colorScheme.primary
             ) {
-                onOpenUrl("https://github.com/meenbeese/Chronos")
+                onOpenUrl("https://github.com/2025gran-hub/AlarmGaia2")
             }
 
             EngagementItem(
@@ -188,7 +188,7 @@ fun AboutScreen(
                 label = stringResource(R.string.visit_website),
                 color = MaterialTheme.colorScheme.primary
             ) {
-                onOpenUrl("https://kuzey.is-a.dev")
+                onOpenUrl("https://gran2025.ru")
             }
 
             EngagementItem(
@@ -196,7 +196,7 @@ fun AboutScreen(
                 label = stringResource(R.string.send_email),
                 color = MaterialTheme.colorScheme.primary
             ) {
-                onSendEmail("kuzeybilgin@proton.me")
+                onSendEmail("info@gran2025.ru")
             }
         }
 

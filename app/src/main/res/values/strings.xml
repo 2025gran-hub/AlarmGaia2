@@ -9,7 +9,7 @@
     <string name="number_seven" translatable="false">7</string>
     <string name="number_eight" translatable="false">8</string>
     <string name="number_nine" translatable="false">9</string>
-    <string name="app_name" translatable="false">Chronos</string>
+    <string name="app_name" translatable="false">GaiaAlarm</string>
     <string name="title_lap_number" translatable="false">#%d</string>
     <string name="day_sunday_abbr">S</string>
     <string name="day_monday_abbr">M</string>
@@ -24,7 +24,7 @@
     <string name="button_image">Image</string>
     <string name="button_system">System</string>
     <string name="color_scheme">Color Scheme</string>
-    <string name="copyright_info">Copyright %1$d Kuzey Bilgin</string>
+    <string name="copyright_info">Copyright %1$d GaiaAlarm</string>
     <string name="default_alarm_label">this alarm</string>
     <string name="desc_audio_file">Choose an audio file in one of the following formats: MPEG, MP4, OGG, AAC, OPUS, or FLAC.</string>
     <string name="desc_background_image">Choose an image file in one of the following formats: JPEG, PNG, WebP, GIF, BMP, or HEIF.</string>
@@ -35,7 +35,7 @@
     <string name="desc_sleep_reminder_time">%1$d hours before</string>
     <string name="desc_slow_wake_up">Gradually increase brightness and volume when an alarm is ringing.</string>
     <string name="description_default">Example default description</string>
-    <string name="engage_title">Engage with Chronos</string>
+    <string name="engage_title">Engage with GaiaAlarm</string>
     <string name="feature_list">
         • Custom backgrounds &amp; ringtones\n
         • No unnecessary permissions\n
@@ -48,16 +48,16 @@
     <string name="fork_github">Fork GitHub repo</string>
     <string name="info_background_permissions_body">Newer versions of Android are becoming increasingly unreliable at starting apps from the background without user interaction; with the introduction of Doze/App Standby in Android 6.0, the requirements for an app to be started are ambiguous and often device-specific.\n\nAs such, while it is not always a requirement for this app to function, it is highly recommended that you grant the System Overlays permission on the next page. This will grant Chronos an exemption from Android\'s usual requirements for starting an app without user interaction, and allow it to function much more reliably.</string>
     <string name="info_background_permissions_title">Alerts &amp; Background Access</string>
-    <string name="made_with_love">Made with ❤️ in Canada.</string>
+    <string name="made_with_love">Made with ❤️ </string>
     <string name="msg_alarms_empty">You don\'t have any alarms set. Press the \'+\' button to create one.</string>
-    <string name="msg_battery_optimizations_switch_enable">Turn on the switch next to \"Chronos\". You may need to scroll down… a lot.</string>
+    <string name="msg_battery_optimizations_switch_enable">Turn on the switch next to \"GaiaAlarm\". You may need to scroll down… a lot.</string>
     <string name="msg_delete_confirmation">Are you sure you want to delete %s?</string>
     <string name="msg_sleep_reminder">Your next alarm will ring approximately %s from now. To get your specified amount of sleep in the settings menu, you should go to bed now.</string>
     <string name="msg_snoozed_until">Snoozed until %s</string>
     <string name="msg_time_zones_selected">%d Selected</string>
     <string name="next_alarm">Next Alarm</string>
     <string name="send_email">Send me an email</string>
-    <string name="title_about">About Chronos</string>
+    <string name="title_about">About GaiaAlarm</string>
     <string name="title_alarm">Alarm %d</string>
     <string name="title_alarm_name">Alarm Name</string>
     <string name="title_alarm_next">%s from now.</string>

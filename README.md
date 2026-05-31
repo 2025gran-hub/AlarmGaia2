@@ -55,45 +55,45 @@ and countless more features...
 - `REQUEST_IGNORE_BATTERY_OPTIMIZATIONS`: please see [dontkillmyapp.com](https://dontkillmyapp.com/)
 - `POST_NOTIFICATIONS`: required on Android 13+ to show timer, alarm, and sleep reminder notifications
 
-## 📝 Contribute to Chronos
+## 📝 Contribute to GaiaAlarm
 
-Chronos is a user-driven project. We welcome any contribution, big or small.
+GaiaAlarm is a user-driven project. We welcome any contribution, big or small.
 
 - **Development:** Fix bugs, implement features, or research issues. Open a PR for review.
 - **Design:** Improve interfaces, including accessibility and usability.
 - **User Support:** Respond to issues and identify duplicates.
 - **Issue Reporting:** Report bugs and edge cases with relevant info.
-- **Localization:** Translate Chronos if it doesn't support your language.
+- **Localization:** Translate GaiaAlarm if it doesn't support your language.
 - **Documentation:** Write guides, explanations, README updates, or documentation.
 
 ### ✅ Other Support Methods
 
 If you can't contribute directly, consider these options:
 
-- **Advertising:** Spread the word about Chronos.
+- **Advertising:** Spread the word about GaiaAlarm.
 - **Donations:** [Support us](https://liberapay.com/meenbeese/) financially if you can.
 - **Advocacy:** Support FOSS services over closed ones.
 
 ## ✏️ Acknowledgements
 
-Thanks to Chronos' contributors, the developers of our dependencies, and our users. Please support them with tips or thank-you notes if you like their work :)
+Thanks to GaiaAlarm' contributors, the developers of our dependencies, and our users. Please support them with tips or thank-you notes if you like their work :)
 
 <a target="_blank" href="https://icons8.com/icon/2YPST59G2xJZ/clock">Clock</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 
 ## 🏗️ Building From Source
 
-1. First you need to get the source code of Chronos.
+1. First you need to get the source code of GaiaAlarm.
 ```sh
 git clone https://github.com/meenbeese/Chronos.git
 ```
 2. Open the project in [Android Studio](https://developer.android.com/studio).
 3. When you click the `▶ Run` button, it will be built automatically.
-4. Launch Chronos.
+4. Launch GaiaAlarm.
 
 ## 📝 License
 
 ```
-Copyright (C) 2025 Kuzey Bilgin
+Copyright (C) 2026 GaiaAlarm
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
